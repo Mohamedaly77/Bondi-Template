@@ -195,7 +195,34 @@ span {
 .staff .describtion {
 
     max-width: 500px;
-    text-align: center;
+
 }
 
 /* End  staff */
+
+/* start team  */
+
+.team {
+    background-color: var(--section-color);
+}
+
+.team h2 {
+    color: var(--yellow-color);
+}
+
+.team .box h4 {
+
+    background-color: var(--green-color);
+}
+
+/* End  team  */
+
+
+/* start project */
+
+.project {
+
+    background-color: var(--dark-color);
+}
+
+/* End project */
